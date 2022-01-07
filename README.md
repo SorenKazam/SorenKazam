@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**SorenKazam/SorenKazam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## ENGLISH
+  
+     🧑🏽 My name's Tiago, nice to Meet you
+     🌍 From Portugal
+     ❤️ Founder of Niver Projects
+     👀 I’m interested in Programming
+     🌱 I’m currently learning Python, HTML, CSS, JS, JAVA, PHP... jesus christ...
+  
+  ## PORTUGUESE NATIVE
+  
+     🧑🏽 Ola o meu nome é Tiago, prazer em te conhecer
+     🌍 Sou de Portugal
+     ❤️ Fundador da Niver Projects
+     👀 Estou interessado em programar
+     🌱 Estou atualmente a aprender Python, HTML, CSS, JS, JAVA, PHP... Meu deus...
+  
+  ## GITHUB STATS
+  
+  <div align="center">
+    <a href="https://github.com/SorenKazam">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sorenkazam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorenkazam&layout=compact&langs_count=7&theme=dark"/>
+  </div>
+  
+  </div>
