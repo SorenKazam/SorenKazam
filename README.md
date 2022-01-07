@@ -1,7 +1,7 @@
 
 <div align="center">
   ### Hi there 👋
-
+  
   ## ENGLISH
   
      🧑🏽 My name's Tiago, nice to Meet you
@@ -25,5 +25,18 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sorenkazam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorenkazam&layout=compact&langs_count=7&theme=dark"/>
   </div>
+   
+  ## ⭐ SPECIAL THANKS TO ⭐
+    ✨ The Niver, Discord, Github Community ✨
+    ✨ DrMods ✨
+    ✨ Rafaella Ballerini ✨
+    ✨ Filipe Deschamps ✨
+    ✨ Gabriel Pato ✨
+    ✨ Code With Mosh ✨
+    ✨ And to all the others who help me in a way to keep going ✨
+    
+  </div>
   
+  <div align="right">
+    - <i>Tiago Guerreiro</i>
   </div>
