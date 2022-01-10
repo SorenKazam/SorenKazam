@@ -28,7 +28,6 @@
    
   ## ⭐ SPECIAL THANKS TO ⭐
     ✨ The Niver, Discord, Github Community ✨
-    ✨ DrMods ✨
     ✨ Rafaella Ballerini ✨
     ✨ Filipe Deschamps ✨
     ✨ Gabriel Pato ✨
