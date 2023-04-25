@@ -27,11 +27,11 @@
   </div>
    
   ## ⭐ SPECIAL THANKS TO ⭐
-    ✨<a href="https://github.com/gustavoguanabara"> Gustavo Guanabara </a>✨
-    ✨<a href="https://github.com/rafaballerini"> Rafaella Ballerini </a>✨
-    ✨<a href="https://github.com/filipedeschamps"> Filipe Deschamps </a>✨
-    ✨<a href="https://www.youtube.com/@codigofontetv"> Codigo Fonte tv </a>✨
-    ✨<a href="https://www.youtube.com/@programmingwithmosh"> Code With Mosh </a>✨
+    ✨ Gustavo Guanabara ✨
+    ✨ Rafaella Ballerini ✨
+    ✨ Filipe Deschamps ✨
+    ✨ Codigo Fonte tv ✨
+    ✨ Code With Mosh ✨
     ✨ And to all the others who help me in a way to keep going ✨
     
   </div>
