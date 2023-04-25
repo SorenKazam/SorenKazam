@@ -27,11 +27,11 @@
   </div>
    
   ## ⭐ SPECIAL THANKS TO ⭐
-    ✨ The Niver, Discord, Github Community ✨
-    ✨ Rafaella Ballerini ✨
-    ✨ Filipe Deschamps ✨
-    ✨ Gabriel Pato ✨
-    ✨ Code With Mosh ✨
+    ✨<a href="https://github.com/gustavoguanabara"> Gustavo Guanabara </a>✨
+    ✨<a href="https://github.com/rafaballerini"> Rafaella Ballerini </a>✨
+    ✨<a href="https://github.com/filipedeschamps"> Filipe Deschamps </a>✨
+    ✨<a href="https://www.youtube.com/@codigofontetv"> Codigo Fonte tv </a>✨
+    ✨<a href="https://www.youtube.com/@programmingwithmosh"> Code With Mosh </a>✨
     ✨ And to all the others who help me in a way to keep going ✨
     
   </div>
