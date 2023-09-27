@@ -29,7 +29,7 @@
   ## ROADMAP PROGRESS
   
   <div align="center">
-    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/651427562f8c6d847b14b19e?variant=dark" alt="roadmap.sh"/></a>
+    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/651427562f8c6d847b14b19e?variant=dark" alt="roadmap.sh"/></a>
   </div>
    
   ## ⭐ SPECIAL THANKS TO ⭐
