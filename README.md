@@ -25,6 +25,12 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sorenkazam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorenkazam&layout=compact&langs_count=7&theme=dark"/>
   </div>
+  
+  ## ROADMAP PROGRESS
+  
+  <div align="center">
+    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/651427562f8c6d847b14b19e?variant=dark" alt="roadmap.sh"/></a>
+  </div>
    
   ## ⭐ SPECIAL THANKS TO ⭐
     ✨ Gustavo Guanabara ✨
