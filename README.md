@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/%27My%20Website%27%20-20B2AA?style=for-the-badge&color=blue" alt="My Website Badge"/>
+      <img src="https://img.shields.io/badge/My%20Website%20-20B2AA?style=for-the-badge&color=blue" alt="My Website Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=SorenKazam&style=flat-square&color=blue" alt="I have a lot of views! Trust me"/>
