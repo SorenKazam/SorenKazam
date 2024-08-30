@@ -24,7 +24,7 @@
     <p>📖 Currently, I am focused on becoming a Full-Stack Developer, working hard to improve my skills and contribute to exciting projects in the world of technology.</p>
     <p>🪧 <strong>Real name:</strong> Tiago</p>
     <p>🌍 <strong>Location:</strong> Portugal</p>
-    <p>🎓 <strong>Education:</strong> I am constantly learning and improving myself.</p>
+    <p>🎓 <strong>Education:</strong> Tomas Cabreira High School - Portugal</p>
     <p>🚀 Let's build a better and more technological future together! 🚀</p>
     <div id="fav-music" align="center" border="1px">
       <p>𝗡𝗼𝘄 𝗽𝗹𝗮𝘆𝗶𝗻𝗴:</p>
