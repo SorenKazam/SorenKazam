@@ -5,12 +5,6 @@
     <a href="https://www.linkedin.com/in/tiago-guerreiro-854a04123/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://discordapp.com/users/343429640569880577">
-      <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-    </a>
-    <a href="https://sorenkazam.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/My%20Website%20-20B2AA?style=for-the-badge&color=blue" alt="My Website Badge"/>
-    </a>
     <br>
     <a href="https://stackoverflow.com/users/17223491/sorenkazam"><img src="https://stackoverflow.com/users/flair/17223491.png?theme=dark" width="208" height="58" alt="profile for SorenKazam at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for SorenKazam at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a><br>
   </div>
