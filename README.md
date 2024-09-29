@@ -2,11 +2,11 @@
   <h1>SOREN'S GITHUB</h1>
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="250"/>
   <div id="badges">
+    <br>
+    <a href="https://stackoverflow.com/users/17223491/sorenkazam"><img src="https://stackoverflow.com/users/flair/17223491.png?theme=dark" width="208" height="58" alt="profile for SorenKazam at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for SorenKazam at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a><br>
     <a href="https://www.linkedin.com/in/tiago-guerreiro-854a04123/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <br>
-    <a href="https://stackoverflow.com/users/17223491/sorenkazam"><img src="https://stackoverflow.com/users/flair/17223491.png?theme=dark" width="208" height="58" alt="profile for SorenKazam at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for SorenKazam at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a><br>
   </div>
   <img src="https://komarev.com/ghpvc/?username=SorenKazam&style=flat-square&color=blue" alt="I have a lot of views! Trust me"/>
 </div>
