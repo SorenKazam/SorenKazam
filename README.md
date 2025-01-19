@@ -48,16 +48,6 @@
     <h2> 🚀 ROADMAP PROGRESS 🚀 </h2>
     <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/651427562f8c6d847b14b19e?variant=dark" alt="roadmap.sh"/></a>
   </section>
-  <section id="special-thanks">
-    <h2> ⭐ SPECIAL THANKS ⭐ </h2>
-    <p>✨ Mods (My cousin) ✨</p>
-    <p>✨ Gustavo Guanabara ✨</p>
-    <p>✨ Rafaella Ballerini ✨</p>
-    <p>✨ Filipe Deschamps ✨</p>
-    <p>✨ Codigo Fonte TV ✨</p>
-    <p>✨ Code With Mosh ✨</p>
-    <p>✨ And to all the others who help me in a way to keep going ✨</p>
-  </section>
 </div>
 <div align="right">
   - <i>Tiago Guerreiro</i>
