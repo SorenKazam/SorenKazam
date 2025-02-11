@@ -7,7 +7,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=SorenKazam&style=flat-square&color=blue" alt="I have a lot of views! Trust me"/>
 </div>
 <div id="body" align="center">
   <section id="about-me">
@@ -41,7 +40,8 @@
     <h2> 🔥 GITHUB STATS 🔥 </h2>
     <a href="https://github.com/SorenKazam">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sorenkazam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorenkazam&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorenkazam&layout=compact&langs_count=7&theme=dark"/><br>
+    <img src="https://komarev.com/ghpvc/?username=SorenKazam&style=flat-square&color=blue" alt="I have a lot of views! Trust me"/>
   </section>
   <section id="roadmap-progress">
     <h2> 🚀 ROADMAP PROGRESS 🚀 </h2>
