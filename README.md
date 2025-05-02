@@ -30,7 +30,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -42,10 +41,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sorenkazam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorenkazam&layout=compact&langs_count=7&theme=dark"/><br>
     <img src="https://komarev.com/ghpvc/?username=SorenKazam&style=flat-square&color=blue" alt="I have a lot of views! Trust me"/>
-  </section>
-  <section id="roadmap-progress">
-    <h2> 🚀 ROADMAP PROGRESS 🚀 </h2>
-    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/651427562f8c6d847b14b19e?variant=dark" alt="roadmap.sh"/></a>
   </section>
 </div>
 <div align="right">
